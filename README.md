@@ -17,17 +17,6 @@
 
 ---
 
-
-
----
-
-## 📊 GitHub Stats  
-![Sumbu1457's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumbu1457&show_icons=true&theme=radical)  
-
-
-
----
-
 ## 📬 Let's Connect  
 📫 **Email:** sumbulsaleem907@gmail.com 
 🙌 **Insta** https://www.instagram.com/su.mbul8015?igsh=Y3BvanUxd3podW1h
