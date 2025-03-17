@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sumbu1457  
-🚀 Aspiring AI/ML Engineer | Storyteller | CEO in the Making  
+🚀 Aspiring AI/ML Engineer 
 
 🔭 **Currently working on:**  
 - Tinder Bot 🤖  
